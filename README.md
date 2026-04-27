@@ -20,7 +20,6 @@
 - 🐍 Conocimientos en **Python** para scripting y análisis de datos.
 - 🗄️ Manejo de bases de datos relacionales: **MySQL** y **SQLite**.
 - 🧩 Me interesa la **arquitectura limpia**, los patrones MVC y la organización por capas (controladores, servicios, repositorios, entidades).
-- 📊 Conocimientos en **análisis de sistemas** y **estadística descriptiva**.
 - 🌱 Actualmente profundizando en APIs RESTful con Laravel y buenas prácticas de desarrollo.
 
 ---
